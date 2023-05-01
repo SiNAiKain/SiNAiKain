@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiNAiKain
+- 👋 Hi, I’m Siddhant Naik, currently a 3rd year CSE student with a major in Gaming Technology 
 - 👀 I’m interested in coding, graphic designing, writing and photography
 - 🌱 I’m currently learning Js
 
